@@ -9,7 +9,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+        👋 Hi, there! I'm **Daniel**, a PhD student at ENS Paris-Saclay and UCD
+        Ireland.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
@@ -17,7 +18,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: space.jpg
+          filename: bg-masthead.jpg
           filters:
             brightness: 0.4
           size: cover
